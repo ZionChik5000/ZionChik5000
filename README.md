@@ -31,7 +31,7 @@ Hi! I'm Ivan, a passionate programmer and game developer currently living in Fin
 
 ![ZionChik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZionChik5000&show_icons=true&theme=neon)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZionChik5000a&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZionChik5000&layout=compact)
 
 #
 
