@@ -19,10 +19,10 @@ Hi! I'm Ivan, a passionate programmer and game developer currently living in Fin
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />
 <br />
 
 #
@@ -30,7 +30,8 @@ Hi! I'm Ivan, a passionate programmer and game developer currently living in Fin
 ### 📊 Stats
 
 ![ZionChik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZionChik5000&show_icons=true&theme=neon)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZionChik5000&hide_progress=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZionChik5000a&layout=compact)
 
 #
 
