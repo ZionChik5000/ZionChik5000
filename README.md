@@ -1,37 +1,28 @@
 # 🍉 ZionChik
 
-**`Creator and Developer`**
+**`Developer`**
 
-Hi! I'm Ivan, a passionate programmer and game developer currently living in Finland. I love creating indie games and new technologies like an AI. My main coding focus is on C#, JavaScript, and HTML + CSS. Im really new to programming, so I'm usually spending time coding, watching tutorials and coding.
-
-   <p align="left">
-      <a href="https://www.youtube.com/@ZionChik?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC6f0ns3oDzaTpiYhXj68vfw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@ZionChik">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC6f0ns3oDzaTpiYhXj68vfw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ZionChik5000?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ZionChik5000?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ZionChik5000?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ZionChik5000?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
+Hi! I'm Ivan, a programmer and game developer living in Finland. I enjoy making indie games and experimenting. I work mainly with C#, JavaScript, and Python, and I like learning new tools and techniques by building projects and practicing regularly.
 ---
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1024px-React_Logo_SVG.svg.png" />
+<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" />
+<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/960px-Godot_icon.svg.png?20170822201738" />
+
+
+
 <br />
 
 #
 
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZionChik5000&layout=compact)
-
-#
-
-[website]: https://zionchik5000.github.io/mySite/
-[youtube]: https://youtube.com/@ZionChik
-[instagram]: https://www.instagram.com/zionchik228/
